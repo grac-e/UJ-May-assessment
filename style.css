@@ -1,0 +1,24 @@
+body {
+background-color: #fff1e6;
+}
+
+.intro {
+    /* border: 1px solid #D00000;
+    border-radius: 0.7em; */
+    text-underline-position: below;
+    /* background-color: #D00000; */
+    /* border-style:dashed; */
+    border-bottom: 5px solid #D00000;
+}
+
+/* blockquote.custom-blockquote {
+    color: #03045E;
+} */
+
+/* .step {
+    border: 1px solid #D00000;
+    border-radius: 0.7em;
+} */
+.row img {
+    border-radius: 10%;
+}

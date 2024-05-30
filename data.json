@@ -1,38 +1,44 @@
 {
     "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "fullName" : "Grace Omowunmi Adelowotan",
+        "photo" : "image/cvimage.jpg",
+        "phone" : "+27(0)83 708 3610",
+        "email" : "adelowotang@gmail.com",
+        "address" : "27, Arundel Road, Westdene, Johannesburg."
+    },
+    "objective" : {
+        "description" : "I am a learner who is ready to expand my horizons with additional knowledge and abilities gained from training and experience, so as to thrive in different roles. I am always ready to use my abilities to support team goals."
     },
     "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+        "institutionName" : "University of KwaZulu-Natal",
+        "year" : "2021-2023",
+        "description" : "Bachelor of Science: Biological Sciences and Genetics"
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
+    "skills" : {
+        "description" : "-Computer literacy",
+        "description2" : "-Knowledge of research methodology",
+        "description3" : "-Administrative tasks"
     },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
-    ]
+    "languageSkills" : {
+        "language" : "-English",
+        "language2" : "-Yoruba",
+        "language3": "-Korean"
+    },
+    "experience" : {
+        "experience1" : "-Programming and Software Developing (2024-Current)",
+        "experience2" : "-Research Assistant, UKZN Pietermaritzburg (2022-2023)",
+        "experience3" : "-Class Representative, UKZN Pietermaritzburg (2023)",
+        "experience4" : "-Secretary, Campus Fellowship, UKZN Pietermaritzburg (2022)"
+    },
+    "hobbies" : {
+        "hobby1" : "-Baking",
+        "hobby2" : "-Community service",
+        "hobby3" : "-Gardening",
+        "hobby4" : "-Reading",
+        "hobby5" : "-Volleyball",
+        "hobby6" : "-Writing"
+    },
+    "references" : {
+        "reference" : "Available upon request."
+    }
 }
