@@ -1,7 +1,7 @@
 {
     "user" : {
         "fullName" : "Grace Omowunmi Adelowotan",
-        "photo" : "image/cvimage.jpg",
+        "photo" : "./image/cvimage.jpg",
         "phone" : "+27(0)83 708 3610",
         "email" : "adelowotang@gmail.com",
         "address" : "27, Arundel Road, Westdene, Johannesburg."
